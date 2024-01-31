@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import chilaquil from './images/chilaquil.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={chilaquil} className="App-logo" alt="logo" />
         <p>
           Que oña que oña
         </p>
