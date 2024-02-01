@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/page/static/css/main.f855e6bc.css",
-    "main.js": "/page/static/js/main.8ecd2e4e.js",
+    "main.js": "/page/static/js/main.d43d193f.js",
     "static/js/787.da750371.chunk.js": "/page/static/js/787.da750371.chunk.js",
+    "static/media/dos.jpg": "/page/static/media/dos.9ffaa6fbc55e986d7066.jpg",
     "static/media/chilaquil.png": "/page/static/media/chilaquil.72bad58325ddd383adb5.png",
+    "static/media/tres.jpg": "/page/static/media/tres.3d4a941e50cabe576e91.jpg",
     "index.html": "/page/index.html",
     "main.f855e6bc.css.map": "/page/static/css/main.f855e6bc.css.map",
-    "main.8ecd2e4e.js.map": "/page/static/js/main.8ecd2e4e.js.map",
+    "main.d43d193f.js.map": "/page/static/js/main.d43d193f.js.map",
     "787.da750371.chunk.js.map": "/page/static/js/787.da750371.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8ecd2e4e.js"
+    "static/js/main.d43d193f.js"
   ]
 }
